@@ -20,4 +20,4 @@ Welcome to my GitHub profile! I'm passionate about data science, machine learnin
 
 ---
 
-Thanks for stopping by! Feel free to check out my repositories and connect 👇
+Thanks for stopping by! Feel free to check out my repositories and connect!
