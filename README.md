@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Yair!
-
 Welcome to my GitHub profile! I'm passionate about data science, machine learning and data analysis. I'm always eager to collaborate on meaningful projects and learn new technologies.
 
 ## 🎓 Education
@@ -7,15 +6,12 @@ Welcome to my GitHub profile! I'm passionate about data science, machine learnin
 - **Ph.D.** – Biological Sciences - Universidad de Buenos Aires (2017-2024)
 - **Ms.C.** – Biological Sciences - Universidad de Buenos Aires (2010-2017)
 
+
 ## 💡 Interests
 - Data Mining & Machine Learning
 - Biostatistics
 - Scientific Computing & Visualization
 
-## 🛠️ Tech Stack
-- **Languages:** Python, R, SQL
-- **Tools & Libraries:** Pandas, Scikit-learn, NetworkX, Plotly, Git
-- **Platforms:** GitHub, Jupyter, VS Code, Linux
 
 ## 📫 How to Reach Me
 - 📧 [Email](mailto:ybbarnatan@gmail.com)
