@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I'm passionate about data science, machine learnin
 - **Platforms:** GitHub, Jupyter, VS Code, Linux
 
 ## 📫 How to Reach Me
-- 📧 Email: [ybbarnatan@gmail.com](mailto:ybbarnatan@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/yair-barnatan/](https://www.linkedin.com/in/yair-barnatan/)
+- 📧 [Email](mailto:ybbarnatan@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yair-barnatan/)
 
 
 ---
