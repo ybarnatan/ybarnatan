@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about data science, machine learnin
 ## 🎓 Education
 - **Ms.C.** – Data Science - Universidad de Buenos Aires (2025-Current)
 - **Ph.D.** – Biological Sciences - Universidad de Buenos Aires (2017-2024)
-- **Ms.C.** – Biological Sciences - Universidad de Buenos Aires (2010-2017)
+- **Licentiate** – Biological Sciences - Universidad de Buenos Aires (2010-2017)
 
 
 ## 💡 Interests
