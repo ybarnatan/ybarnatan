@@ -8,9 +8,10 @@ Welcome to my GitHub profile! I'm passionate about data science, machine learnin
 
 
 ## 💡 Interests
-- Data Mining & Machine Learning
+- Data Science & Analytics
+- Machine Learning & Automation
 - Biostatistics
-- Scientific Computing & Visualization
+- Scientific Visualization & Communication
 
 
 ## 📫 How to Reach Me
