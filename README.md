@@ -15,7 +15,9 @@ Welcome to my GitHub profile! I'm passionate about data science, machine learnin
 
 
 ## 📄 Currículum Vitae
+
 -**EN** 👉 [See CV](https://github.com/ybarnatan/ybarnatan/raw/main/CV_Yair_Barnatan_EN_Jul_2025.pdf)
+
 -**ES** 👉 [Ver CV](https://github.com/ybarnatan/ybarnatan/raw/main/CV_Yair_Barnatan_ES_Jul_2025.pdf)
 
 
