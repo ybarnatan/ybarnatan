@@ -14,6 +14,13 @@ Welcome to my GitHub profile! I'm passionate about data science, machine learnin
 - Scientific Visualization & Communication
 
 
+## 📄 Currículum Vitae
+EN 👉 [Ver CV](https://github.com/ybarnatan/ybarnatan/raw/main/CV Yair Barnatan EN Jul 2025.pdf)
+
+
+
+
+
 ## 📫 How to Reach Me
 - 📧 [Email](mailto:ybbarnatan@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/yair-barnatan/)
