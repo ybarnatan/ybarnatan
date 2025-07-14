@@ -13,33 +13,30 @@ Welcome to my GitHub profile! I'm passionate about data science, machine learnin
   <!-- HTML y CSS--> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"  width="40" height="40" />
-
   <!-- GitHub -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" height="40" />
-
   <!-- Git -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />
-
   <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" />
-
   <!-- R -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" title="R" width="40" height="40" />
-
   <!-- SQL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL" title="SQL" width="40" height="40" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" title="SQL" width="40" height="40" />
+  <!-- Arduino-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" title="Arduino" width="40" height="40" />
+  <!-- Inkscape -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" alt="Inkscape" title="Inkscape" width="40" height="40"/>
   <!-- Excel -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/file-type-excel/file-type-excel.svg" alt="Excel" title="Microsoft Excel" width="40" height="40" />
-
   <!-- Teams -->
   <img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-teams-21-721968.png" alt="MS Teams" title="Microsoft Teams" width="40" height="40" />
-
   <!-- Outlook -->
   <img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-outlook-3-569463.png" alt="Outlook" title="Microsoft Outlook" width="40" height="40" />
-
   <!-- Gmail -->
   <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" title="Gmail" width="40" height="40" />
+
+  
 </p>
 
 
