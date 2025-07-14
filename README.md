@@ -36,11 +36,12 @@ Welcome to my GitHub profile! I'm passionate about data science, machine learnin
        alt="Excel" title="Microsoft Excel" width="40" height="40" />
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg"
-       alt="MS Teams" title="Microsoft Teams" width="40" height="40" />
+       alt="Microsoft Teams" title="Microsoft Teams" width="40" height="40" />
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg"
-       alt="Outlook" title="Microsoft Outlook" width="40" height="40" />
+       alt="Microsoft Outlook" title="Microsoft Outlook" width="40" height="40" />
 </p>
+
 
 
 ---
