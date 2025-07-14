@@ -30,12 +30,15 @@ Welcome to my GitHub profile! I'm passionate about data science, machine learnin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" alt="Inkscape" title="Inkscape" width="40" height="40"/>
   <!-- Gmail -->
   <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" title="Gmail" width="40" height="40" />
-</p>
+<!-- Excel -->
+<img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" title="Excel" width="40" height="40" />
 
-<p>
-  <img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="Excel" title="Microsoft Excel" width="40" height="40" />
-  <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="Teams" title="Microsoft Teams" width="40" height="40" />
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Outlook" title="Microsoft Outlook" width="40" height="40" />
+<!-- Microsoft Teams -->
+<img src="https://cdn-icons-png.flaticon.com/512/906/906349.png" alt="Microsoft Teams" title="Microsoft Teams" width="40" height="40" />
+
+<!-- Outlook -->
+<img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" alt="Outlook" title="Outlook" width="40" height="40" />
+
 </p>
 
 
