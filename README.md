@@ -20,7 +20,8 @@ Welcome to my GitHub profile! I'm passionate about data science, machine learnin
   <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" />
   <!-- R -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" title="R" width="40" height="40" />
+          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="R" title="R" width="40" height="40" />
   <!-- SQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" title="SQL" width="40" height="40" />
   <!-- Arduino-->
@@ -32,15 +33,11 @@ Welcome to my GitHub profile! I'm passionate about data science, machine learnin
 </p>
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg"
-       alt="Excel" title="Microsoft Excel" width="40" height="40" />
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg"
-       alt="Microsoft Teams" title="Microsoft Teams" width="40" height="40" />
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg"
-       alt="Microsoft Outlook" title="Microsoft Outlook" width="40" height="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="Excel" title="Microsoft Excel" width="40" height="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="Teams" title="Microsoft Teams" width="40" height="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Outlook" title="Microsoft Outlook" width="40" height="40" />
 </p>
+
 
 
 
