@@ -27,12 +27,19 @@ Welcome to my GitHub profile! I'm passionate about data science, machine learnin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" title="Arduino" width="40" height="40" />
   <!-- Inkscape -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" alt="Inkscape" title="Inkscape" width="40" height="40"/>
+
   <!-- Excel -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/file-type-excel/file-type-excel.svg" alt="Excel" title="Microsoft Excel" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg"
+       alt="Excel" title="Microsoft Excel" width="40" height="40" />
+
   <!-- Teams -->
-  <img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-teams-21-721968.png" alt="MS Teams" title="Microsoft Teams" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg"
+       alt="MS Teams" title="Microsoft Teams" width="40" height="40" />
+
   <!-- Outlook -->
-  <img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-outlook-3-569463.png" alt="Outlook" title="Microsoft Outlook" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg"
+       alt="Outlook" title="Microsoft Outlook" width="40" height="40" />
+
   <!-- Gmail -->
   <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" title="Gmail" width="40" height="40" />
 
