@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm passionate about data science, machine learnin
 - **Ph.D.** – Biological Sciences - Universidad de Buenos Aires (2017-2024)
 - **Licentiate** – Biological Sciences - Universidad de Buenos Aires (2010-2017)
 
----
 
 ## 💻 Stack
 <p>
@@ -65,8 +64,6 @@ Welcome to my GitHub profile! I'm passionate about data science, machine learnin
 
 
 
----
-
 ## 💡 Interests
 - Data Science & Analytics
 - Machine Learning & Automation
@@ -84,7 +81,6 @@ Welcome to my GitHub profile! I'm passionate about data science, machine learnin
     <img src="https://img.shields.io/badge/CV%20ES-Descargar-E85D04?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Descargar CV en Español"/>
   </a>
 </div>
---
 
 
 ## 📫 How to Reach Me
@@ -98,7 +94,6 @@ Welcome to my GitHub profile! I'm passionate about data science, machine learnin
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
 
 
 ---
