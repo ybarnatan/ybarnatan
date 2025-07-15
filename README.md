@@ -81,10 +81,16 @@ Welcome to my GitHub profile! I'm passionate about data science, machine learnin
 - **ES** 👉 [Ver CV](https://github.com/ybarnatan/ybarnatan/raw/main/CV_Yair_Barnatan_ES_Jul_2025.pdf)
 
 
-
 ## 📫 How to Reach Me
-- 📧 [Email](mailto:ybbarnatan@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yair-barnatan/)
+
+<p align="left">
+  <a href="mailto:ybbarnatan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yair-barnatan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
 
 ---
